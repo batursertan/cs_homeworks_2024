@@ -1,7 +1,0 @@
-#include <stdio.h>
-int main() { <Comment with length 26 characters>
-    int number_one = 3;
-    int number_two = 4;
-    int add = number_one + number_two;
-    return 0;
-}
